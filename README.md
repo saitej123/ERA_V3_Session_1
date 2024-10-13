@@ -36,15 +36,8 @@ This Chrome extension helps users find recipes, create meal plans, and generate 
 
 ## Technology
 
-This extension is built using:
+This extension is built using: CURSOR IDE
 - HTML and CSS for the user interface
 - JavaScript for functionality
 - Chrome Extension APIs for browser integration
 
-## Feedback and Support
-
-For bug reports, feature requests, or general feedback, please contact Sai Teja directly.
-
----
-
-Simplify your meal planning and cooking with Sai Teja's Recipe Finder and Meal Planner!
